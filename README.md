@@ -1,2 +1,2 @@
-# URL Shorten
+# URL Shortener
 run using spyder
